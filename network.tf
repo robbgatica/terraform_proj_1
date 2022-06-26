@@ -1,5 +1,5 @@
 #TODO: deploy load balancer
-#      configure 
+#TODO: configure docker image/ec2 instances 
 
 # VPC
 resource "aws_vpc" "vpc-home" {
